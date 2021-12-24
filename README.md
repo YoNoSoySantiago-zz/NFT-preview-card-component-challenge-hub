@@ -57,7 +57,7 @@ body{
     display: flex;
     align-items: center;
 }
-
+/* 
 @media only screen and (min-width: 375px) {
     .card{
         width: 90%;
@@ -68,7 +68,7 @@ body{
     .card{
         width: 20%;
     }
-}
+} */
 
 ```
 
